@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReplaceIfWithPloyMorphism", "ReplaceIfWithPloyMorphism\ReplaceIfWithPloyMorphism.csproj", "{FBE439C0-2F8C-48E8-9117-49683E080279}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncryptPasswordUsingBcrypt", "EncryptPasswordUsingBcrypt\EncryptPasswordUsingBcrypt.csproj", "{CFC789E6-B3FC-4FCD-8251-D2992AFC974E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBE439C0-2F8C-48E8-9117-49683E080279}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{FBE439C0-2F8C-48E8-9117-49683E080279}.Debug|anycpu.Build.0 = Debug|anycpu
+		{FBE439C0-2F8C-48E8-9117-49683E080279}.Release|anycpu.ActiveCfg = Release|anycpu
+		{FBE439C0-2F8C-48E8-9117-49683E080279}.Release|anycpu.Build.0 = Release|anycpu
+		{CFC789E6-B3FC-4FCD-8251-D2992AFC974E}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{CFC789E6-B3FC-4FCD-8251-D2992AFC974E}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{CFC789E6-B3FC-4FCD-8251-D2992AFC974E}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{CFC789E6-B3FC-4FCD-8251-D2992AFC974E}.Release|anycpu.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
